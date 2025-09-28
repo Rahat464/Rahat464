@@ -1,6 +1,7 @@
 Final year CS at QMUL.
 
 ## 🌐 Socials:
+[Email Me](mailto:rahat@rahatali.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alirahat) <br>
 [My Website](https://www.rahatali.dev)
 
